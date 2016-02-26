@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuickDial Widget</string>
+    <string name="widget_label">QuickDial</string>
+    <string name="widget_preferences" translatable="false">net.kacpak.quickdialwidget.WidgetsContacts</string>
+</resources>
